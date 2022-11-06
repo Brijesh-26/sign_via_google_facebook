@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">spark foundation</string>
+    <string name="facebook_app_id">850610466306753</string>
+    <string name="fb_login_protocol_scheme">fb850610466306753</string>
+    <string name="facebook_client_token">24f0b58c500e93f6fbc0f046ac0b4e8e</string>
+
+
+</resources>

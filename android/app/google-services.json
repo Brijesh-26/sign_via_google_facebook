@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464521631456",
+    "project_id": "grip-task-5",
+    "storage_bucket": "grip-task-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464521631456:android:6a99bd1b4f8aade1866285",
+        "android_client_info": {
+          "package_name": "com.example.task5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464521631456-ea3a2r1ug91sappq6planngrrnrtqkih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ_GMzWvIkWqrdJYDb7z_yef2xmnRoPK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464521631456-ea3a2r1ug91sappq6planngrrnrtqkih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
